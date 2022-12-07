@@ -1,0 +1,21 @@
+Bom dia/boa tarde/boa noite, professor
+
+Este trabalho foi feito pelos alunos:
+Gustavo Delbon Souza - SP3047261
+Hugo Vinicius Matos da Silva - SP3081851
+
+Abaixo seguem 3 links para visualização dos arquivos solicidatos, no link do drive se encontram todos
+os arquivos, enquanto no link do git apenas o código fonte e o exécutavel e no YouTube somente o vídeo
+
+Link para o drive com os arquivos solicitados, sendo eles:
+	• Arquivos de código fonte;
+	• Arquivos exécutaveis;
+	• Vídeo de apresentação.
+
+	https://drive.google.com/drive/folders/1Zs66E8v_Seb194Zco_NZP5_zUthwgGaS?usp=share_link
+
+Link para o git com o código fonte e os exécutaveis.
+
+	https://github.com/HugoSilva05/LP1A3_ProjetoFinal
+
+Link para do YouTube com o vídeo de apresentação.
